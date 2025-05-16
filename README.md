@@ -23,7 +23,7 @@ Contributions, corrections, or discussions are welcome — but don't expect ever
 This is a learning log, not a formal guide.
 
 ```
-But in the end, there's only darkness and light. No one knows our next direction."
+"But in the end, there's only darkness and light. No one knows our next direction"
 ```
 
 
@@ -47,5 +47,5 @@ Semua yang ada di repositori ini hanya untuk tujuan pendidikan. Jangan gunakan i
 Kontribusi, koreksi, atau diskusi dipersilakan - tetapi jangan mengharapkan semuanya sempurna. Ini adalah catatan belajar, bukan panduan formal.
 
 ```
-Tapi pada akhirnya, hanya ada kegelapan dan terang. Tidak ada yang tahu ke mana kita akan melangkah selanjutnya
+"Tapi pada akhirnya, hanya ada kegelapan dan terang. Tidak ada yang tahu ke mana kita akan melangkah selanjutnya"
 ```
