@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/71296a67-c6b9-4961-a257-8f2d229a62ab)# A Day in the Life of a SOC Analyst
+# A Day in the Life of a SOC Analyst
 
 A career as a Security Operations Center (SOC) Analyst offers significant rewards, challenges, and opportunities for growth. It’s a dynamic role where no two days are the same. SOC Analysts serve as the frontline defenders against cyber threats, ensuring the protection of an organization's data, infrastructure, and digital operations. This article shares insights into the daily responsibilities of SOC Analysts, featuring real-world experience from Isaiah, a former in-house SOC Analyst and current TryHackMe Content Engineer and Senior Offensive Security Engineer.
 
