@@ -5,7 +5,6 @@ Most of the content here comes from platforms like TryHackMe, Hack The Box, Root
 
 These write-ups are not meant to be perfect or definitive solutions. They're just part of the learning process — if you're learning too, feel free to use them as a reference or comparison.
 
-
 ## 🧠 Purpose
 
 - To document what I learn on a daily basis
