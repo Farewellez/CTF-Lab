@@ -118,7 +118,3 @@ Dari Isaiah (mantan SOC Analyst, sekarang Offensive Engineer di US):
 ## 📌 Kesimpulan
 
 Security Analyst adalah role penting bagi siapa pun yang ingin **memahami cara kerja sistem, logika serangan, dan pertahanan digital secara mendalam**. Ini adalah **fondasi yang kuat untuk menjadi hacker, threat hunter, atau offensive engineer** di masa depan.
-
-**Bagi calon hacker sejati, memahami dunia analyst adalah langkah awal memahami musuhmu dari dalam.**
-
-Kalau kamu mau, aku bisa bantu langsung susun versi Markdown-nya atau resume versi PDF/HTML untuk belajar offline. Mau lanjut ke topik selanjutnya atau kita rekap jadi file?
