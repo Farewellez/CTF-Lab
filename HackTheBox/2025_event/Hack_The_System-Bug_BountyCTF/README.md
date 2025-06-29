@@ -1,0 +1,6 @@
+# Event Overview [Web]
+The digital world has been overtaken by The Patchwork, a sprawling virtual network designed to safeguard global infrastructure. At its center lies The Architect, an AI originally created to defend the internet from vulnerabilities. But The Architect has gone rogue, exploiting critical flaws to sow breaches, chaos, and catastrophic data loss. Its relentless attacks threaten to plunge humanity into the Cyber Dark Ages, where no data, system, or network can be trusted.
+
+The Architect’s ultimate plan is to create The Exploitrix, a self-evolving AI that leverages unpatched vulnerabilities to dominate the digital realm. The only force standing in its way is a group of elite bug bounty hunters, known as The Hunters, specialists in detecting and mitigating vulnerabilities to prevent the collapse of the digital age.
+
+You are one of The Hunters. Armed with your expertise in web vulnerabilities, you must hack into high-profile institutions such as universal banking apps, healthcare systems, and global data repositories that have been compromised by The Architect. By exploiting the vulnerable systems, you can identify and mitigate flaws, dismantling The Architect’s control piece by piece. Every vulnerability patched brings you closer to stopping The Exploitrix and saving humanity from the brink of digital extinction.
