@@ -1,4 +1,8 @@
 # JinjaCare [Web]
+**Category:** Web  
+**Technique:** SSTI → RCE  
+**Difficulty:** Medium  
+
 Jinjacare is a web application designed to help citizens manage and access their COVID-19 vaccination records. The platform allows users to store their vaccination history and generate digital certificates. They've asked you to hunt for any potential security issues in their application and retrieve the flag stored in their site.
 
 ### 📝 Related Bug Bounty Reports
