@@ -8,6 +8,8 @@ Think the flag is somewhere in there. Would you help me find it? https://mega.nz
 ```
 xxd <namaimage>.jpg | less
 ```
-Nanti bakal ketemu:
-000023b0: d7c6 28c6 0e66 6c61 677b 776f 7721 5f64  ..(..flag{wow!_d
-000023c0: 6174 615f 6973 5f63 6f6f 6c7d 8512 53be  ata_is_cool}..S.
+Nanti bakal ketemu: <br>
+000023b0: d7c6 28c6 0e66 6c61 677b 776f 7721 5f64  ..(..flag{wow!_d <br>
+000023c0: 6174 615f 6973 5f63 6f6f 6c7d 8512 53be  ata_is_cool}..S. <br>
+
+### flag{wow!_data_is_cool}
