@@ -8,7 +8,7 @@ Semisal contoh disini ketika kita input sembarangan maka akan ada tulisan Invali
 
 <img width="1918" height="938" alt="step-3 (3)" src="https://github.com/user-attachments/assets/67793362-17db-4ab0-9bc0-8be0fe477a44" />
 
-Dengan script yang sudah kubuat disini, ini akan mengenumerasi list usernmae yang sudah diberikan di awal. Kenapa tidak langsung menggunakan intruder di burp? karene ada 100 list username dan aku tidak menggunakan burp yang premium al hasil harus input list usernamenya satu persatu yang memakan waktu lama. Contoh hasil script ini dapat username yang valid yaitu **Root**
+Dengan script yang sudah kubuat disini, ini akan mengenumerasi list usernmae yang sudah diberikan di awal. Kenapa tidak langsung menggunakan intruder di burp? karena penasaran aja pakai python hehe. Contoh hasil script ini dapat username yang valid yaitu **Root**
 Ketika kita coba input username root maka sekarang ada warning kalau password kita salah atau **Incorrect password**. Dari sini kita tahu kalau root user itu ada dan sekarang hanya perlu  bruteforcing passwordnya.
 
 <img width="1918" height="938" alt="step-5 (3)" src="https://github.com/user-attachments/assets/13594d59-1da4-4c82-9178-70b2933c1687" />
